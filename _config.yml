@@ -1,0 +1,12 @@
+# Site settings
+description: > # this means to ignore newlines until "baseurl:"
+  Jack Uppling Guitar Lessons
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
