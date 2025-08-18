@@ -1,0 +1,1 @@
+Adapted from this template: https://github.com/volny/stylish-portfolio-jekyll
